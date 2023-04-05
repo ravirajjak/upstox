@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">upstox</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="in_appropriate_data">In Appropriate Data</string>
+</resources>
